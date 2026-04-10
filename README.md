@@ -1,4 +1,4 @@
-# bank-marketing-subscription-model
+# Bank Marketing Subscription Model
 Machine learning project to predict customer subscription to a term deposit using the Bank Marketing Dataset. Includes data preprocessing, feature engineering, model comparison, and performance evaluation.
 
 # Project overview
