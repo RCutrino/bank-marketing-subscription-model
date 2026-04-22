@@ -94,8 +94,13 @@ This project demonstrates an end-to-end data science workflow, from data explora
 
 AI tools were used to speed up standard implementation tasks, while project design decisions, validation strategy, and business interpretation were performed manually.
 
+---
 
 ## Notebook
 The full analysis is available here:  
 📘 [Exploratory Analysis and Modeling Notebook](notebooks/bank_marketing_subscription_model.ipynb)
+
+## Requirements
+The project can be run using standard Python data science libraries.
+See requirements.txt for details.
 
