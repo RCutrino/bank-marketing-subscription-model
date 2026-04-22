@@ -93,3 +93,9 @@ Future improvements could include cost-sensitive learning, profit-based evaluati
 This project demonstrates an end-to-end data science workflow, from data exploration to model interpretation, with a strong emphasis on **real-world applicability and business impact**.
 
 AI tools were used to speed up standard implementation tasks, while project design decisions, validation strategy, and business interpretation were performed manually.
+
+
+## Notebook
+The full analysis is available here:  
+📘 [Exploratory Analysis and Modeling Notebook](notebooks/bank_marketing_subscription_model.ipynb)
+
