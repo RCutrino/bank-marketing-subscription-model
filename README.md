@@ -96,10 +96,6 @@ AI tools were used to speed up standard implementation tasks, while project desi
 
 ---
 
-## Notebook
-The full analysis is available here:  
-📘 [Exploratory Analysis and Modeling Notebook](notebooks/bank_marketing_subscription_model.ipynb)
-
 ## Requirements
 The project can be run using standard Python data science libraries.
 See requirements.txt for details.
